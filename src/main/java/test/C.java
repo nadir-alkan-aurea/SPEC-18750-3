@@ -1,6 +1,6 @@
 package test;
 
-public class B {
+public class C {
 	public void method1(String arg1){
 		System.out.println( "1");
 		System.out.println( "2");
